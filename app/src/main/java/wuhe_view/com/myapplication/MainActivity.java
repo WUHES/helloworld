@@ -20,7 +20,10 @@ import com.yuyh.library.imgsel.ImgSelActivity;
 import com.yuyh.library.imgsel.ImgSelConfig;
 
 import org.json.JSONObject;
+class text
+{
 
+}
 public class MainActivity extends Activity implements View.OnClickListener {
 
     private Button MBt;
